@@ -1,0 +1,16 @@
+{
+  "name": "nodeexpressbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "rahul das",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express3-handlebars": "^0.5.2",
+    "nodemon": "^1.11.0"
+  }
+}
