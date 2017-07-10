@@ -1,0 +1,4 @@
+// ignore this from commiting
+node_modules
+
+credentials.js
